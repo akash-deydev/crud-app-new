@@ -6,13 +6,6 @@
       "email": "ayushman@test.com",
       "phone": "9876087653",
       "id": 1
-    },
-    {
-      "name": "Virat Kohli",
-      "username": "virat",
-      "email": "virat@test.com",
-      "phone": "9378646432",
-      "id": 2
     }
   ]
 }
